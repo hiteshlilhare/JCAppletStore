@@ -13,7 +13,7 @@
 	<icon-file-cart>openpgp_cart.jpg</icon-file-cart>
 	<icon-file-desc>openpgp_des.jpg</icon-file-desc>
 	<version>1.10</version>
-	<signed-by>Not Signed</signed-by>
+	<signed-by>ApplicationStoreServer</signed-by>
 	<release-date>2016-04-21</release-date>
 	<description>
 	This project implement the OpenPGP card functionality. OpenPGP is an open standard for signing and encrypting. 
