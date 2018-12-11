@@ -8,7 +8,7 @@
 		</author>
 	</authors>
 	<company>javacardos</company>
-	<licene>GNU General Public License version 2.0 (GPLv2)</license>
+	<license>GNU General Public License version 2.0 (GPLv2)</license>
 	<cap-file>OpenPGPApplet.cap</cap-file>
 	<icon-file-cart>openpgp_cart.jpg</icon-file-cart>
 	<icon-file-desc>openpgp_des.jpg</icon-file-desc>
