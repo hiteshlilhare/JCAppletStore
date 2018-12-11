@@ -2,9 +2,9 @@
 	<name>Java Card OpenPGP Applet</name>
 	<authors>
 		<author>
-			<name></name>
-			<e-mail></e-mail>
-			<web-site></web-site>
+			<name>lilharesudha</name>
+			<e-mail>lilharesudha@gmail.com</e-mail>
+			<web-site>https://github.com/lilharesudha</web-site>
 		</author>
 	</authors>
 	<company>javacardos</company>
@@ -12,33 +12,16 @@
 	<cap-file>OpenPGPApplet.cap</cap-file>
 	<icon-file-cart>openpgp_cart.jpg</icon-file-cart>
 	<icon-file-desc>openpgp_des.jpg</icon-file-desc>
-	<version>1.10</version>
+	<version>v0.2</version>
 	<signed-by>ApplicationStoreServer</signed-by>
-	<release-date>2016-04-21</release-date>
+	<release-date>2018-11-16T03:35:23Z</release-date>
 	<description>
 	This project implement the OpenPGP card functionality. OpenPGP is an open standard for signing and encrypting. 
 	It enables RSA or ECC sign/encrypt operations using a private key stored on a smartcard (such as ), through common interfaces like PKCS#11
 	</description>
 	<features>
-		<feature></feature>
-		<feature></feature>
-		<feature></feature>
+		<feature>Implement the OpenPGP card functionality</feature>
 	</features>
-	<repositories>
-		<reporitory>https://github.com/JavaCardOS/OpenPGPApplet</reporitory>
-		<reporitory>https://sourceforge.net/projects/openpgp/</reporitory>
-	</repositories>
-	<discussions>
-		<discussion></discussion>
-	<discussions>
-	<users>
-		<user>
-		<user-id>hitesh.lilhare@gmail.com</user-id>
-		<raiting>3</raiting>
-		<comment></comment>
-		</user>
-		<user-id>hiteshlilhare.13@gmail.com</user-id>
-		<raiting>4</raiting>
-		<comment></comment>
-	</users>
+	<appstore-repository>https://github.com/hiteshlilhare/JCAppletStore.git</appstore-repository>
+	<appsource-repository>https://github.com/lilharesudha/OpenPGPApplet.git</appsource-repository>
 </app>
